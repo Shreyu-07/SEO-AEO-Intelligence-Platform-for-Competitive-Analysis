@@ -3,7 +3,7 @@
 
 <div align="center">
   <br />
-  <a href="https://your-project.vercel.app">
+  <a href="https://seo-aeo-intelligence-platform-for-c.vercel.app/">
     <img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" height="40" />
   </a>
   <br />
